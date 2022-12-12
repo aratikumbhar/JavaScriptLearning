@@ -52,10 +52,9 @@ function bankDetails(bankName, accountNum, location, pinCode) {
 }
 bankDetails("HDFC Bank  ", "8956782345  ", "Pune  ", 631202, "Open");
 
-
-var foo=1;
-function myFun(){
-    console.log(foo);
-    var foo=2;
+var foo = 1;
+function myFun() {
+  console.log(foo);
+  var foo = 2;
 }
 myFun();
