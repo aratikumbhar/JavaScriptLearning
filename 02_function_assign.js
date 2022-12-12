@@ -50,4 +50,4 @@ function addThreeValues(val1, val2, val3) {
     console.log("Addition of arguments=");
   console.log(val1 + val2 + val3);
 }
-addThreeValues("Hello", "Good", "Morning");
+addThreeValues("Hello" ,  "Good" ,  "Morning");
