@@ -16,7 +16,7 @@ var sentenceLen = sentence.trim();
 //   console.log(`removed space length: ${sentenceLen.length}`);
 var count = sentence.length - sentenceLen.length;
 console.log(`4)   Count of extra spaces that removed is : ${ count}`);
-//  console.log(`sentenceLen.length`);
+//  console.log(`${sentenceLen.length}`);
 console.log("                                                                              ");
 
 console.log(`5)   The first character of string is: ${sentenceLen.charAt(0)} and the last character of string is: ${sentenceLen.charAt(32)}`);
