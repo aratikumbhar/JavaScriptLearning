@@ -10,3 +10,8 @@ console.log(`typeof ${numStr} is: ${typeof numStr}`);
 console.log(`typeof ${num} is: ${typeof num}`);
 
 console.log(`==== Comparison is ${20 == "20"}`);   //Implicit Conversion
+
+var myNumber = 77;
+console.log(`myNumber values ${myNumber} and it's type is : ${typeof myNumber}`);
+var strMyNumber = myNumber.toString();
+console.log(`strMyNumber values ${strMyNumber} and it's type is : ${typeof strMyNumber}`);
