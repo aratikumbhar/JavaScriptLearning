@@ -1,3 +1,8 @@
+ function squareOfWordLength(){
+
+ }
+ squareOfWordLength();
+
 console.log(` 1) `);
 var word = "JavaScript";
 console.log(`    The length of word "JavaScript" is ${word.length}  and its square is ${word.length * word.length}`);
