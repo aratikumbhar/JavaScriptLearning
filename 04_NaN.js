@@ -10,3 +10,17 @@ console.log(`resultMul is: ${resultMul}`);
 
 var num = new Number("Prathamesh"); 
 console.log(`num is: ${num}`);
+
+var compare = 25 + true + "2";
+console.log(`Result is ${compare}`);
+
+var value = 25 + - "2" - false + "10";
+console.log(`Result is ${value}`);
+
+var result = - "giddyup" + 409;
+console.log(`Result is ${result}`);
+
+console.log('String + Number:', "50" + 50); 
+
+
+console.log('Negative + String + Number:', - "50" + 50); 
