@@ -37,10 +37,10 @@ switch (monthNumber) {
         console.log(`12 : December `);
         break;
         case 15:
-        console.log(`15 : This ia Invalid Month Number`);
+        console.log(`15 : This is Invalid Month Number`);
         break;
         case 100:
-        console.log(`100 : This ia Invalid Month Number`);
+        console.log(`100 : This is Invalid Month Number`);
         break;
         default:
         break;}
