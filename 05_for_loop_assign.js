@@ -31,13 +31,13 @@ for (let index = 5; index <= 50; index=index+5) {
 }
 
 // WAP to print table of 0 like 10 20 30 40 .... 100
-console.log(`====Question 5====`);
+console.log(`====Question 6====`);
 for (let index = 10; index <= 100; index=index+10) {
     console.log(index);  
 }
 
 // WAP to print table of 10 in reverse order like --> 100 90 80 70 .... 10
-console.log(`====Question 6====`);
+console.log(`====Question 7====`);
 for (let index = 100; index >=10; index=index-10) {
     console.log(index);  
 }
