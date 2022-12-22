@@ -14,7 +14,7 @@ for (let index = 50; index >= 40; index=index-1) {
 
 // WAP to find first 15 odd numbers
 console.log(`====Question 3====`);
-for (let index = 1; index <=15; index=index+2) {
+for (let index = 1; index <=30; index=index+2) {
     console.log(index); 
 }
 
