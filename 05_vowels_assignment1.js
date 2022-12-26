@@ -25,7 +25,6 @@ function sumOfCubes() {
 sumOfCubes();
 console.log(`-----------------------------------------------------------------------------------`);
 
-
 console.log(`3)`);
 function oddPositionedChars(string){
    console.log(`   String is: ${string}`);
