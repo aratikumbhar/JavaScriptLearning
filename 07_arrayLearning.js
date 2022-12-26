@@ -130,6 +130,11 @@ var arrayOfNum = [4, 5, 6, 8, 9, 33, 66];
 arrayOfNum.splice(2, 3, 99, 77 );
 console.log(arrayOfNum);
 
+console.log("==========include() ========");
+var arrayOfNum = [4, 5, 6, 8, 9, 33, 66];
+let isAvailable =  arrayOfNum.includes(9);
+console.log(isAvailable);
+
 console.log(`======== for of loop ==========`);
 var arrayOfNum = [4, 5, 6, 8, 9, 33, 66];
 console.log(arrayOfNum);
