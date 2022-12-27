@@ -67,6 +67,7 @@ student.marks.english = 97;
 
 console.log(`Adding an Nested object property`);
 student.marks.programming = 100;
+console.log(student.marks);
 
 console.log(`Deleting an Nested object property`);
 delete student.marks.english;
