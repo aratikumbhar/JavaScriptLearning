@@ -57,5 +57,5 @@ console.log(professor.certificates);
 console.log(``);
 
 console.log(`9) Log the nested object certificate on console:`);
-console.log(professor.certificates[1]);
+//console.log(professor.certificates[1]);
 console.log(professor.certificates);
