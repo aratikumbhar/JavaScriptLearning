@@ -14,7 +14,6 @@ arrayClone[2] = 200;
 console.log(arrayEven);
 console.log(arrayClone);
 
-// 
 let kat = {
     name : "Katrina",
     role: "actress"
