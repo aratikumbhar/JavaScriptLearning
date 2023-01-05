@@ -43,7 +43,7 @@ class Employee {
   const empSachin = new Employee(33, "Sachin", 22, "Surat");
   const empGayatri = new Employee(44, "Gayatri", 21, "Bangluru");
   const mapOfEmployees = new Map(); // key -> empId   value -> employee object
-  mapOfEmployees.set(11, empSup);
+  mapOfEmployees.set(11, empSup);  //  we can write like this  mapOfEmployees.set(employee.empId, empSup);
   mapOfEmployees.set(22, empDhir);
   mapOfEmployees.set(33, empSachin);
   mapOfEmployees.set(44, empGayatri);
