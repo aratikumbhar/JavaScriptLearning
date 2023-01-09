@@ -16,7 +16,7 @@ let sum = (n1, n2)=>{
 }
 sum(10, 10);
 
-// Arrow Function with argument and return value
+console.log(` Arrow Function with argument and return value`);
 let multiply = (n1, n2)=> {
     let mul = n1*n2;
     return mul;
