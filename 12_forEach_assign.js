@@ -50,8 +50,6 @@ console.log(`Sum of all the values in the given array is: ${sum}`);
 console.log(`-----------------------------------------------------------------------------------`);
 
 console.log(`6) Find the even positioned values `);
-// let lengthOfArray = array_numbers.length;
-// console.log(lengthOfArray);
 const newArray = [];
 array_numbers.forEach( (currentValue, index)=> {
     if(index %2==0){
